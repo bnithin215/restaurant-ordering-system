@@ -72,11 +72,11 @@ cd ../frontend
 cp .env.example .env
 # Set VITE_API_URL to your backend endpoint
 npm install
-npm run dev     # launches local dev server (e.g. http://localhost:3000)
+npm run dev     # launches local dev server (e.g. http://localhost:8080)
 
 4. Usage
 
-    Visit http://localhost:3000 to access the customer interface.
+    Visit http://localhost:8080 to access the customer interface.
 
     Log in as staff (/admin or direct via API) to manage menu/orders.
 
